@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mothy-08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🧑‍💻 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/mothy-08?theme=light&font=Noto%20Sans%20JP)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mothy-08?theme=dark&font=Noto%20Sans%20JP)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
