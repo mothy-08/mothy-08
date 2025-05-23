@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my web development skills by building personal projects.<br>👯 I’m looking to collaborate on web development projects with other like-minded individuals.<br>🤝 I’m looking for help with learning new technologies and effective time management.<br>🌱 I’m currently learning more advanced CSS and JavaScript concepts.<br>💬 Ask me about web development fundamentals, HTML, CSS, and JavaScript, or my experience with various web development tools.<br>⚡ Fun fact: I can play the guitar and lift weights!
+🔭 I’m currently working on improving my web development skills by building personal projects.<br>👯 I’m looking to collaborate on web development projects with other like-minded individuals.<br>🌱 I’m currently learning more advanced CSS and JavaScript concepts.<br>💬 Ask me about web development fundamentals, HTML, CSS, and JavaScript, or my experience with various web development tools.<br>⚡ Fun fact: I can play the guitar and lift weights!
 
 
 ## 🌐 Socials:
